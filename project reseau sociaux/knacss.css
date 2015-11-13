@@ -1,0 +1,50 @@
+header {width:150%;height:50px;}
+footer{width:100%;height:50px;}
+html, body {
+ margin: 0;
+ padding: 0;
+ }
+body {
+ background-color: black; 
+ font-family: comic, sans-serif; 
+ font-size: 100%;
+ }
+h1 {
+ font-size: 150%; 
+ color: red; 
+ text-align: center;text-decoration :underline;
+ }
+h5 {
+ font-size: 100%; 
+ color: black; 
+ padding-left: 15px;
+ }
+p,ul,li,td {
+ color: white;text-align: left;list-style-type:none;font-size: 120%
+ }
+ 
+ .test {width: 273px; height: 409px;float: left;
+
+
+ }
+
+
+
+
+
+
+a.button{
+    background:url(button.gif);
+    display:block;
+    color:#555555;
+    font-weight:bold;
+    height:30px;
+    line-height:29px;
+    margin-bottom:14px;
+    text-decoration:none;
+    width:191px;
+  }
+
+  a:hover.button{
+    color:#0066CC;
+
