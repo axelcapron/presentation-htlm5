@@ -1,0 +1,50 @@
+body {
+	color: black
+	;
+	background:#ffd9cc;text-decoration : underline;font-family:sans-serif;background-image:images/htlm.jpg
+}
+
+}
+strong {
+}
+
+
+
+body {
+	padding: 20px 5px;
+}
+
+
+#navigation {
+	padding: 12px 15px;
+}
+#navigation ul {
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#navigation li.gauche {
+	float: left;
+	margin-right: 10px;
+	font-size: 1.4em;
+	font-style: italic;
+}
+
+
+#principal {
+	float: left;
+	width: 560px;
+	padding: 10px 20px;
+}
+
+#principal p, #principal li {
+	line-height: 1.5;
+}
+
+
+}
+#trois <p>{float: left;
+	width: 560px;
+	padding: 10px 20px;}
